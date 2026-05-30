@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1 align="center">José Tomás Briones Gómez</h1>
 
-<!--
-**Nanashi-JT/Nanashi-JT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Ingeniería en Metalurgia · Analista de Datos · Data Science</em><br>
+  <em>Metallurgical Engineering · Data Analyst · Data Science</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:jose.brionesgomez@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-jose.brionesgomez-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-tom%C3%A1s-briones-g%C3%B3mez-74657414a">
+    <img src="https://img.shields.io/badge/LinkedIn-José%20Tomás%20Briones-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre mí | About Me
+
+**ES** — Ingeniero en Metalurgia con experiencia en planta y procesamiento de minerales, especializado en flotación, recuperación metalúrgica y optimización de procesos. Actualmente en transición hacia el análisis de datos y la ciencia de datos, aplicando herramientas estadísticas y Python para resolver problemas de la industria minera y más allá.
+
+**EN** — Metallurgical Engineer with hands-on experience in mineral processing, specializing in froth flotation, metallurgical recovery, and process optimization. Currently transitioning into data analytics and data science, applying statistical tools and Python to solve problems in the mining industry and beyond.
+
+---
+
+## Stack Tecnológico | Tech Stack
+
+**Análisis de Datos | Data Analysis**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+
+**Business Intelligence**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Dominio | Domain**
+
+![Mining](https://img.shields.io/badge/Minería-Flotación%20·%20Recuperación%20Metalúrgica-8B4513?style=flat)
+![DOE](https://img.shields.io/badge/Estadística-Diseño%20de%20Experimentos-2e86ab?style=flat)
+
+---
+
+## Proyectos Destacados | Featured Projects
+
+### ⚗️ Diseño Experimental — Recuperación Metalúrgica (Co, Mn, Ni)
+Análisis factorial 2³ con puntos centrales aplicado a la flotación por espuma de cobalto, manganeso y níquel recuperados desde cátodos de baterías de iones de litio desechadas.  
+*2³ factorial design with center points applied to froth flotation of Co, Mn and Ni recovered from spent lithium-ion battery cathodes.*
+
+🔗 [Ver repositorio](https://github.com/Nanashi-JT)
+
+`Python` `NumPy` `Pandas` `Matplotlib` `SciPy` `DOE` `Optimización`
+
+- Superficies de respuesta 3D y mapas de contornos
+- Optimización global por Evolución Diferencial
+- Modelo validado con R² = 0.98 (cobalto)
+
+---
+
+## Enfoque Actual | Currently Working On
+
+- 📊 Fortaleciendo habilidades en análisis y visualización de datos
+- 🤖 Aprendiendo Machine Learning con `scikit-learn`
+- 🔗 Construyendo portafolio con proyectos reales de la industria minera
+
+---
+
+<p align="center">
+  <i>Abierto a oportunidades en Análisis de Datos, Data Science y roles con enfoque en minería.</i><br>
+  <i>Open to opportunities in Data Analytics, Data Science, and mining-focused roles.</i>
+</p>
