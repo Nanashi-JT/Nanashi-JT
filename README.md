@@ -1,8 +1,8 @@
 <h1 align="center">José Tomás Briones Gómez</h1>
 
 <p align="center">
-  <em>Ingeniería en Metalurgia · Analista de Datos · Data Science</em><br>
-  <em>Metallurgical Engineering · Data Analyst · Data Science</em>
+  <em>Ingeniería en Minas · Analista de Datos · Data Science</em><br>
+  <em>Mining Engineering · Data Analyst · Data Science</em>
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 ## Sobre mí | About Me
 
-**ES** — Ingeniero en Metalurgia con experiencia en planta y procesamiento de minerales, especializado en flotación, recuperación metalúrgica y optimización de procesos. Actualmente en transición hacia el análisis de datos y la ciencia de datos, aplicando herramientas estadísticas y Python para resolver problemas de la industria minera y más allá.
+**ES** — Ingeniero en Minas con experiencia en planta y procesamiento de minerales, especializado en flotación, recuperación metalúrgica y optimización de procesos. Actualmente en transición hacia el análisis de datos y la ciencia de datos, aplicando herramientas estadísticas y Python para resolver problemas de la industria minera y más allá.
 
-**EN** — Metallurgical Engineer with hands-on experience in mineral processing, specializing in froth flotation, metallurgical recovery, and process optimization. Currently transitioning into data analytics and data science, applying statistical tools and Python to solve problems in the mining industry and beyond.
+**EN** — Mining Engineer with hands-on experience in mineral processing, specializing in froth flotation, metallurgical recovery, and process optimization. Currently transitioning into data analytics and data science, applying statistical tools and Python to solve problems in the mining industry and beyond.
 
 ---
 
