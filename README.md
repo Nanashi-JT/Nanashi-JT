@@ -69,6 +69,18 @@ Análisis factorial 2³ con puntos centrales aplicado a la flotación por espuma
 - Modelo validado con R² = 0.98 (cobalto), 0.95 (manganeso), 0.94 (níquel)
 - Vinculado a publicación en *Sustainability* (Cortés et al., 2026)
 
+### 📈 Predicción de Precio del Molibdeno con Datos COCHILCO
+Modelo predictivo del precio mensual del óxido de molibdeno a 1, 2 y 3 meses, usando exclusivamente datos públicos de COCHILCO (precio del molibdeno, precio del cobre BML, inventarios mundiales, producción chilena por empresa).  
+*Monthly molybdenum price forecasting model (1–3 month horizon) using exclusively public COCHILCO data (molybdenum price, BML copper price, world inventories, Chilean production by company).*
+
+🔗 [Ver repositorio](https://github.com/Nanashi-JT/proyecto_molibdeno)
+
+`Python` `Pandas` `Statsmodels` `ARIMA` `XGBoost` `Scikit-learn` `Series de Tiempo`
+
+- Test de estacionariedad (ADF), features rezagados, división temporal train/test
+- Comparación ARIMA(1,1,1) baseline vs. XGBoost
+- XGBoost reduce el MAPE en 37.9% respecto al baseline (17.78% vs. 28.61% a un mes)
+
 ---
 
 ## Enfoque Actual | Currently Working On
