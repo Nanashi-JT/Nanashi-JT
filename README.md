@@ -81,6 +81,18 @@ Modelo predictivo del precio mensual del óxido de molibdeno a 1, 2 y 3 meses, u
 - Comparación ARIMA(1,1,1) baseline vs. XGBoost
 - XGBoost reduce el MAPE en 37.9% respecto al baseline (17.78% vs. 28.61% a un mes)
 
+### ⛏️ Monitor Minero Chile — Dashboard Interactivo
+Dashboard construido con Streamlit que procesa y visualiza datos públicos de COCHILCO, CNE y el Banco Central de Chile: precios de metales, producción mensual y anual histórica (1985-2024), inventarios mundiales de cobre, diésel y tipo de cambio USD/CLP.  
+*Streamlit dashboard processing and visualizing public data from COCHILCO, CNE, and the Central Bank of Chile: metal prices, monthly and historical annual production (1985–2024), world copper inventories, diesel price, and USD/CLP exchange rate.*
+
+🔗 [Ver repositorio](https://github.com/Nanashi-JT/Dashboard-minero-chile)
+
+`Python` `Streamlit` `Pandas` `Plotly` `ETL`
+
+- Pipeline automático de 6 pasos (raw → processed) que se actualiza solo al detectar archivos nuevos
+- Integra múltiples fuentes con formatos irregulares, incluyendo el Anuario COCHILCO combinando ediciones 1986-2005 y 2005-2024
+- Vistas de Estado Actual e Histórico, con filtros interactivos por año y por metal
+
 ---
 
 ## Enfoque Actual | Currently Working On
